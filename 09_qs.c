@@ -45,5 +45,5 @@ printf("%d\t",a[i]);
 } 
 else 
 { 
-printf(“size of array is invalid\n”); 
+printf("size of array is invalid\n"); 
 }
