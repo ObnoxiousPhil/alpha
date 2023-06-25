@@ -3,6 +3,7 @@ int main()
 { 
 float per;  
 char grade; 
+printf("Enter the percentage");  
 scanf("%f",&per);  
 if(per>=90) 
 grade= 'A'; 
